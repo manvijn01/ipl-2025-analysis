@@ -39,3 +39,6 @@ This project explores IPL 2025 cricket data focusing on team and player performa
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/manvijn01/ipl-2025-analysis.git
+   pip install pandas numpy matplotlib seaborn
+   jupyter notebook ipl-2025-analysis.ipynb
+
